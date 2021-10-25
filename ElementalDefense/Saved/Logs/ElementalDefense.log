@@ -1928,3 +1928,426 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.25-02.28.28:985][213]LogSavePackage: Moving '../../../../../../Users/JonathanKonderla/Unreal Projects/Elemental-Tower-Defense/ElementalDefense/Saved/Demonstration_Auto4392D5C0E45BDC31B2B3D70AEA6F283E9.tmp' to '../../../../../../Users/JonathanKonderla/Unreal Projects/Elemental-Tower-Defense/ElementalDefense/Saved/Autosaves/Game/MedievalDungeon/Maps/Demonstration_Auto4.umap'
 [2021.10.25-02.28.28:987][213]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MedievalDungeon/Maps/Demonstration' took 0.299
 [2021.10.25-02.28.28:987][213]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.299
+[2021.10.25-02.58.44:888][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.10.25-02.58.45:167][824]LogSavePackage: Moving '../../../../../../Users/JonathanKonderla/Unreal Projects/Elemental-Tower-Defense/ElementalDefense/Saved/DemonstrationE27DBEFD4B1A997AEE38A1A5E8335143.tmp' to '../../../../../../Users/JonathanKonderla/Unreal Projects/Elemental-Tower-Defense/ElementalDefense/Content/MedievalDungeon/Maps/Demonstration.umap'
+[2021.10.25-02.58.45:226][824]LogSavePackage: Moving '../../../../../../Users/JonathanKonderla/Unreal Projects/Elemental-Tower-Defense/ElementalDefense/Saved/Demonstration_BuiltData98C20A8A449D358988C4D9ABF082F821.tmp' to '../../../../../../Users/JonathanKonderla/Unreal Projects/Elemental-Tower-Defense/ElementalDefense/Content/MedievalDungeon/Maps/Demonstration_BuiltData.uasset'
+[2021.10.25-02.58.45:239][824]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.25-02.58.45:239][824]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MedievalDungeon/Maps/Demonstration_BuiltData.Demonstration_BuiltData
+[2021.10.25-02.58.45:239][824]LogContentValidation: Display: Validating World /Game/MedievalDungeon/Maps/Demonstration.Demonstration
+[2021.10.25-02.58.46:105][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.10.25-02.58.59:939][297]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.25-02.59.00:040][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.25-02.59.00:070][297]PIE: New page: PIE session: Demonstration (Oct 24, 2021, 4:59:00 PM)
+[2021.10.25-02.59.00:205][297]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.10.25-02.59.00:208][297]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.10.25-02.59.00:229][297]LogPlayLevel: Creating play world package: /Game/MedievalDungeon/Maps/UEDPIE_0_Demonstration
+[2021.10.25-02.59.00:359][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.129433s)
+[2021.10.25-02.59.00:374][297]LogAIModule: Creating AISystem for world Demonstration
+[2021.10.25-02.59.00:397][297]LogPlayLevel: PIE: World Init took: (0.038527s)
+[2021.10.25-02.59.00:397][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MedievalDungeon/Maps/Demonstration.Demonstration to /Game/MedievalDungeon/Maps/UEDPIE_0_Demonstration.Demonstration (0.168358s)
+[2021.10.25-02.59.00:406][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.10.25-02.59.00:439][297]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.10.25-02.59.00:439][297]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.25-02.59.00:439][297]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.25-02.59.00:439][297]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.25-02.59.00:439][297]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.25-02.59.00:439][297]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.25-02.59.00:439][297]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.25-02.59.00:439][297]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.25-02.59.00:439][297]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.25-02.59.00:440][297]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.25-02.59.00:440][297]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.25-02.59.00:463][297]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.25-02.59.00:463][297]LogAudioMixer: Display: 1: FrontRight
+[2021.10.25-02.59.00:504][297]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.10.25-02.59.00:504][297]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.25-02.59.00:504][297]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.25-02.59.00:504][297]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.25-02.59.00:504][297]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.25-02.59.00:504][297]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.25-02.59.00:504][297]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.25-02.59.00:521][297]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.25-02.59.00:521][297]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.25-02.59.00:521][297]LogInit: FAudioDevice initialized.
+[2021.10.25-02.59.00:521][297]LogAudio: Display: Audio Device (ID: 2) registered with world 'Demonstration'.
+[2021.10.25-02.59.00:567][297]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.25-02.59.00:699][297]LogWorld: Bringing World /Game/MedievalDungeon/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 60) at 2021.10.24-21.59.00
+[2021.10.25-02.59.00:742][297]LogWorld: Bringing up level for play took: 0.077869
+[2021.10.25-02.59.00:743][297]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.10.25-02.59.00:913][297]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 20 classes and 0 folders.
+[2021.10.25-02.59.01:049][297]PIE: Server logged in
+[2021.10.25-02.59.01:054][297]PIE: Play in editor total start time 1.104 seconds.
+[2021.10.25-02.59.02:579][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-02.59.02:579][320]LogWorld: BeginTearingDown for /Game/MedievalDungeon/Maps/UEDPIE_0_Demonstration
+[2021.10.25-02.59.02:599][320]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-02.59.02:605][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-02.59.02:630][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.25-02.59.02:647][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-02.59.02:655][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-02.59.02:688][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-02.59.02:690][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-02.59.02:743][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.10.25-02.59.02:788][321]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.10.25-02.59.06:976][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2021.10.25-02.59.12:643][827]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.SM_Floor
+[2021.10.25-02.59.14:153][827]LogRenderer: Reallocating scene render targets to support 1144x704 Format 10 NumSamples 1 (Frame:1).
+[2021.10.25-02.59.24:063][326]LogStaticMesh: Building static mesh SM_Floor...
+[2021.10.25-02.59.24:063][326]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.10.25-02.59.24:064][326]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.SM_Floor
+[2021.10.25-02.59.26:016][426]LogSavePackage: Moving '../../../../../../Users/JonathanKonderla/Unreal Projects/Elemental-Tower-Defense/ElementalDefense/Saved/SM_Floor9FC9AF0E4AA61F9A81684BA5C20360E9.tmp' to '../../../../../../Users/JonathanKonderla/Unreal Projects/Elemental-Tower-Defense/ElementalDefense/Content/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.uasset'
+[2021.10.25-02.59.26:029][426]AssetCheck: New page: Asset Save: SM_Floor
+[2021.10.25-02.59.26:029][426]LogContentValidation: Display: Validating StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.SM_Floor
+[2021.10.25-02.59.27:199][487]LogSlate: Window 'SM_Floor' being destroyed
+[2021.10.25-02.59.27:206][487]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-02.59.27:206][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-02.59.30:051][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.10.25-02.59.30:336][641]LogSavePackage: Moving '../../../../../../Users/JonathanKonderla/Unreal Projects/Elemental-Tower-Defense/ElementalDefense/Saved/Demonstration89E2D02B44AF925371E56BAC8C0EC66B.tmp' to '../../../../../../Users/JonathanKonderla/Unreal Projects/Elemental-Tower-Defense/ElementalDefense/Content/MedievalDungeon/Maps/Demonstration.umap'
+[2021.10.25-02.59.30:369][641]LogSavePackage: Moving '../../../../../../Users/JonathanKonderla/Unreal Projects/Elemental-Tower-Defense/ElementalDefense/Saved/Demonstration_BuiltData579757AA47A7F4EA6937119AD4E4FB6A.tmp' to '../../../../../../Users/JonathanKonderla/Unreal Projects/Elemental-Tower-Defense/ElementalDefense/Content/MedievalDungeon/Maps/Demonstration_BuiltData.uasset'
+[2021.10.25-02.59.30:380][641]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.25-02.59.30:380][641]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MedievalDungeon/Maps/Demonstration_BuiltData.Demonstration_BuiltData
+[2021.10.25-02.59.30:380][641]LogContentValidation: Display: Validating World /Game/MedievalDungeon/Maps/Demonstration.Demonstration
+[2021.10.25-02.59.31:869][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.10.25-02.59.33:874][832]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.25-02.59.33:880][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.25-02.59.33:881][832]PIE: New page: PIE session: Demonstration (Oct 24, 2021, 4:59:33 PM)
+[2021.10.25-02.59.33:881][832]LogPlayLevel: Creating play world package: /Game/MedievalDungeon/Maps/UEDPIE_0_Demonstration
+[2021.10.25-02.59.33:947][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066325s)
+[2021.10.25-02.59.33:948][832]LogAIModule: Creating AISystem for world Demonstration
+[2021.10.25-02.59.33:948][832]LogPlayLevel: PIE: World Init took: (0.001264s)
+[2021.10.25-02.59.33:948][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MedievalDungeon/Maps/Demonstration.Demonstration to /Game/MedievalDungeon/Maps/UEDPIE_0_Demonstration.Demonstration (0.067751s)
+[2021.10.25-02.59.33:956][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.10.25-02.59.33:957][832]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.10.25-02.59.33:957][832]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.25-02.59.33:957][832]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.25-02.59.33:957][832]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.25-02.59.33:957][832]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.25-02.59.33:957][832]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.25-02.59.33:957][832]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.25-02.59.33:957][832]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.25-02.59.33:957][832]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.25-02.59.33:957][832]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.25-02.59.33:957][832]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.25-02.59.33:961][832]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.25-02.59.33:961][832]LogAudioMixer: Display: 1: FrontRight
+[2021.10.25-02.59.33:999][832]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.10.25-02.59.34:000][832]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.25-02.59.34:000][832]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.25-02.59.34:000][832]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.25-02.59.34:001][832]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.25-02.59.34:001][832]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.25-02.59.34:001][832]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.25-02.59.34:015][832]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.25-02.59.34:015][832]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.25-02.59.34:015][832]LogInit: FAudioDevice initialized.
+[2021.10.25-02.59.34:015][832]LogAudio: Display: Audio Device (ID: 3) registered with world 'Demonstration'.
+[2021.10.25-02.59.34:024][832]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.25-02.59.34:053][832]LogWorld: Bringing World /Game/MedievalDungeon/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 60) at 2021.10.24-21.59.34
+[2021.10.25-02.59.34:054][832]LogWorld: Bringing up level for play took: 0.029271
+[2021.10.25-02.59.34:054][832]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.10.25-02.59.34:082][832]PIE: Server logged in
+[2021.10.25-02.59.34:083][832]PIE: Play in editor total start time 0.203 seconds.
+[2021.10.25-02.59.46:205][517]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=782.640 Y=-2582.880 Z=222.195] for [FirstPersonProjectile_C]
+[2021.10.25-02.59.46:213][518]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.060556 > MaxSimulationTimeStep (0.050) for '/Game/MedievalDungeon/Maps/UEDPIE_0_Demonstration.Demonstration:PersistentLevel.FirstPersonProjectile_C_15.CollisionComponent'
+[2021.10.25-02.59.51:063][800]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=791.230 Y=-2553.659 Z=214.764] for [FirstPersonProjectile_C]
+[2021.10.25-02.59.55:646][ 75]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=781.049 Y=-2548.398 Z=217.193] for [FirstPersonProjectile_C]
+[2021.10.25-02.59.57:563][190]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=784.744 Y=-2548.689 Z=216.172] for [FirstPersonProjectile_C]
+[2021.10.25-02.59.58:179][227]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=784.707 Y=-2548.783 Z=216.334] for [FirstPersonProjectile_C]
+[2021.10.25-02.59.58:962][274]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=799.205 Y=-2551.505 Z=216.322] for [FirstPersonProjectile_C]
+[2021.10.25-03.00.01:229][410]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=797.162 Y=-2551.203 Z=216.334] for [FirstPersonProjectile_C]
+[2021.10.25-03.00.01:812][445]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=786.619 Y=-2549.465 Z=216.984] for [FirstPersonProjectile_C]
+[2021.10.25-03.00.02:062][460]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=786.666 Y=-2549.513 Z=217.058] for [FirstPersonProjectile_C]
+[2021.10.25-03.00.30:830][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-03.00.30:830][184]LogWorld: BeginTearingDown for /Game/MedievalDungeon/Maps/UEDPIE_0_Demonstration
+[2021.10.25-03.00.30:830][184]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-03.00.30:837][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-03.00.30:842][184]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.25-03.00.30:857][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-03.00.30:862][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-03.00.30:865][184]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-03.00.30:866][184]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-03.00.30:890][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.10.25-03.00.30:937][185]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.10.25-03.00.36:018][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Flat)
+[2021.10.25-03.00.37:156][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Flat3)
+[2021.10.25-03.00.37:989][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Flat)
+[2021.10.25-03.00.43:430][913]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Ceiling_Half3)
+[2021.10.25-03.00.44:473][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Half3)
+[2021.10.25-03.00.45:618][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Piece2)
+[2021.10.25-03.00.49:093][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Flat3)
+[2021.10.25-03.00.50:993][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Piece2)
+[2021.10.25-03.00.51:626][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Half3)
+[2021.10.25-03.00.52:642][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Decorative_Arches5)
+[2021.10.25-03.00.53:027][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Piece)
+[2021.10.25-03.00.53:729][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Third)
+[2021.10.25-03.00.54:763][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Piece)
+[2021.10.25-03.00.56:121][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Third)
+[2021.10.25-03.01.03:289][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling8)
+[2021.10.25-03.01.10:131][474]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling9)
+[2021.10.25-03.01.15:520][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Third)
+[2021.10.25-03.01.33:145][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ceiling5)
+[2021.10.25-03.01.35:023][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ceiling3)
+[2021.10.25-03.01.44:043][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Third)
+[2021.10.25-03.01.50:029][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Half2)
+[2021.10.25-03.01.51:630][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Third)
+[2021.10.25-03.01.52:266][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Half3)
+[2021.10.25-03.01.53:235][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Piece)
+[2021.10.25-03.01.53:937][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Third)
+[2021.10.25-03.01.54:722][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Piece)
+[2021.10.25-03.01.55:757][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Half3)
+[2021.10.25-03.01.56:575][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Piece)
+[2021.10.25-03.01.57:210][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Third)
+[2021.10.25-03.01.58:128][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Piece)
+[2021.10.25-03.01.58:864][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Half3)
+[2021.10.25-03.01.59:783][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Piece2)
+[2021.10.25-03.02.01:943][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Flat3)
+[2021.10.25-03.02.02:994][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Flat2)
+[2021.10.25-03.02.04:095][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Half2)
+[2021.10.25-03.02.10:905][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Piece)
+[2021.10.25-03.02.11:476][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Third)
+[2021.10.25-03.02.12:427][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Half2)
+[2021.10.25-03.02.13:312][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Third)
+[2021.10.25-03.02.14:030][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Piece)
+[2021.10.25-03.02.14:648][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Half3)
+[2021.10.25-03.02.15:600][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Third)
+[2021.10.25-03.02.16:236][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Piece)
+[2021.10.25-03.02.17:121][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Half3)
+[2021.10.25-03.02.21:271][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Piece)
+[2021.10.25-03.02.23:674][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Half3)
+[2021.10.25-03.02.25:825][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Piece)
+[2021.10.25-03.02.26:595][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Third)
+[2021.10.25-03.02.28:780][ 79]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Piece)
+[2021.10.25-03.02.29:866][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Half3)
+[2021.10.25-03.02.31:535][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Third)
+[2021.10.25-03.02.38:998][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Flat)
+[2021.10.25-03.02.43:856][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Third)
+[2021.10.25-03.02.46:218][ 97]Cmd: EDIT COPY
+[2021.10.25-03.02.47:312][ 97]Cmd: EDIT PASTE
+[2021.10.25-03.03.15:946][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Flat)
+[2021.10.25-03.03.16:731][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Half3)
+[2021.10.25-03.03.18:033][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Third2)
+[2021.10.25-03.03.21:027][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Third2)
+[2021.10.25-03.03.21:722][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Third2)
+[2021.10.25-03.03.22:653][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Half3)
+[2021.10.25-03.03.24:257][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Piece)
+[2021.10.25-03.03.25:295][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Third2)
+[2021.10.25-03.03.26:398][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Piece)
+[2021.10.25-03.03.28:368][485]Cmd: DELETE
+[2021.10.25-03.03.28:368][485]Cmd: ACTOR DELETE
+[2021.10.25-03.03.28:385][485]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.25-03.03.28:393][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.10.25-03.03.28:397][485]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.10.25-03.03.29:388][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Third2)
+[2021.10.25-03.03.30:559][613]Cmd: TRANSACTION UNDO
+[2021.10.25-03.03.30:559][613]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.25-03.03.31:958][687]Cmd: TRANSACTION UNDO
+[2021.10.25-03.03.31:958][687]LogEditorTransaction: Undo Delete Actors
+[2021.10.25-03.03.33:119][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Arch8)
+[2021.10.25-03.03.38:703][ 80]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Piece)
+[2021.10.25-03.03.39:753][140]Cmd: DELETE
+[2021.10.25-03.03.39:753][140]Cmd: ACTOR DELETE
+[2021.10.25-03.03.39:769][140]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.25-03.03.39:775][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.10.25-03.03.39:778][140]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2021.10.25-03.03.41:241][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Half3)
+[2021.10.25-03.03.42:094][277]Cmd: DELETE
+[2021.10.25-03.03.42:094][277]Cmd: ACTOR DELETE
+[2021.10.25-03.03.42:110][277]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.25-03.03.42:117][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.10.25-03.03.42:118][277]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.10.25-03.03.48:895][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Third2)
+[2021.10.25-03.03.51:588][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Third2)
+[2021.10.25-03.04.09:501][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Decorative_Arches5)
+[2021.10.25-03.04.10:896][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor21)
+[2021.10.25-03.04.12:888][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.10.25-03.04.13:171][ 80]LogSavePackage: Moving '../../../../../../Users/JonathanKonderla/Unreal Projects/Elemental-Tower-Defense/ElementalDefense/Saved/Demonstration2B85C6AD4717C621D8864E825C0156AA.tmp' to '../../../../../../Users/JonathanKonderla/Unreal Projects/Elemental-Tower-Defense/ElementalDefense/Content/MedievalDungeon/Maps/Demonstration.umap'
+[2021.10.25-03.04.13:204][ 80]LogSavePackage: Moving '../../../../../../Users/JonathanKonderla/Unreal Projects/Elemental-Tower-Defense/ElementalDefense/Saved/Demonstration_BuiltDataA19805214D6EE125BE1D56820E3EE742.tmp' to '../../../../../../Users/JonathanKonderla/Unreal Projects/Elemental-Tower-Defense/ElementalDefense/Content/MedievalDungeon/Maps/Demonstration_BuiltData.uasset'
+[2021.10.25-03.04.13:216][ 80]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.25-03.04.13:216][ 80]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MedievalDungeon/Maps/Demonstration_BuiltData.Demonstration_BuiltData
+[2021.10.25-03.04.13:216][ 80]LogContentValidation: Display: Validating World /Game/MedievalDungeon/Maps/Demonstration.Demonstration
+[2021.10.25-03.04.36:811][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Flat)
+[2021.10.25-03.04.45:120][971]Cmd: TRANSACTION UNDO
+[2021.10.25-03.04.45:120][971]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.25-03.05.10:482][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Third2)
+[2021.10.25-03.05.18:218][584]LogActorFactory: Actor Factory created SM_Ceiling_Half
+[2021.10.25-03.05.20:548][707]LogActorFactory: Actor Factory created SM_Ceiling_Half
+[2021.10.25-03.05.29:631][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Third2)
+[2021.10.25-03.05.36:790][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ceiling_Half)
+[2021.10.25-03.05.48:855][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Third2)
+[2021.10.25-03.05.50:590][445]Cmd: DELETE
+[2021.10.25-03.05.50:590][445]Cmd: ACTOR DELETE
+[2021.10.25-03.05.50:607][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.25-03.05.50:614][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.10.25-03.05.50:618][445]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.10.25-03.05.54:502][678]Cmd: TRANSACTION UNDO
+[2021.10.25-03.05.54:502][678]LogEditorTransaction: Undo Delete Actors
+[2021.10.25-03.05.57:117][822]Cmd: TRANSACTION REDO
+[2021.10.25-03.05.57:117][822]LogEditorTransaction: Redo Delete Actors
+[2021.10.25-03.05.58:583][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Flat)
+[2021.10.25-03.06.05:012][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Piece2)
+[2021.10.25-03.06.11:080][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Decorative_Arches5)
+[2021.10.25-03.06.21:740][278]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Flat)
+[2021.10.25-03.06.25:658][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Arch29)
+[2021.10.25-03.06.34:001][  6]Cmd: TRANSACTION UNDO
+[2021.10.25-03.06.34:001][  6]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.25-03.06.34:462][ 17]Cmd: TRANSACTION UNDO
+[2021.10.25-03.06.34:462][ 17]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.25-03.06.34:881][ 37]Cmd: TRANSACTION UNDO
+[2021.10.25-03.06.34:881][ 37]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.25-03.06.35:277][ 59]Cmd: TRANSACTION UNDO
+[2021.10.25-03.06.35:277][ 59]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.25-03.06.35:689][ 82]Cmd: TRANSACTION UNDO
+[2021.10.25-03.06.35:689][ 82]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.25-03.06.36:093][106]Cmd: TRANSACTION UNDO
+[2021.10.25-03.06.36:093][106]LogEditorTransaction: Undo Delete Actors
+[2021.10.25-03.06.37:556][190]Cmd: TRANSACTION UNDO
+[2021.10.25-03.06.37:556][190]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.25-03.06.38:124][221]Cmd: TRANSACTION UNDO
+[2021.10.25-03.06.38:124][221]LogEditorTransaction: Undo Rotate Actors
+[2021.10.25-03.06.38:612][249]Cmd: TRANSACTION UNDO
+[2021.10.25-03.06.38:613][249]LogEditorTransaction: Undo Paste Location
+[2021.10.25-03.06.38:984][270]Cmd: TRANSACTION UNDO
+[2021.10.25-03.06.38:984][270]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.25-03.06.39:430][294]Cmd: TRANSACTION UNDO
+[2021.10.25-03.06.39:430][294]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.25-03.06.39:791][314]Cmd: TRANSACTION UNDO
+[2021.10.25-03.06.39:791][314]LogEditorTransaction: Undo Create Actors
+[2021.10.25-03.06.46:142][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.10.25-03.06.46:430][688]LogSavePackage: Moving '../../../../../../Users/JonathanKonderla/Unreal Projects/Elemental-Tower-Defense/ElementalDefense/Saved/DemonstrationD8B268604E36AD77BCD1A98979BE1B93.tmp' to '../../../../../../Users/JonathanKonderla/Unreal Projects/Elemental-Tower-Defense/ElementalDefense/Content/MedievalDungeon/Maps/Demonstration.umap'
+[2021.10.25-03.06.46:463][688]LogSavePackage: Moving '../../../../../../Users/JonathanKonderla/Unreal Projects/Elemental-Tower-Defense/ElementalDefense/Saved/Demonstration_BuiltData3E87169B435EA828AEDF88960E47892E.tmp' to '../../../../../../Users/JonathanKonderla/Unreal Projects/Elemental-Tower-Defense/ElementalDefense/Content/MedievalDungeon/Maps/Demonstration_BuiltData.uasset'
+[2021.10.25-03.06.46:475][688]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.25-03.06.46:475][688]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MedievalDungeon/Maps/Demonstration_BuiltData.Demonstration_BuiltData
+[2021.10.25-03.06.46:475][688]LogContentValidation: Display: Validating World /Game/MedievalDungeon/Maps/Demonstration.Demonstration
+[2021.10.25-03.07.01:623][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.10.25-03.07.02:704][545]LogSlate: Window 'ElementalDefense - Unreal Editor' being destroyed
+[2021.10.25-03.07.02:975][546]Cmd: QUIT_EDITOR
+[2021.10.25-03.07.02:975][546]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.10.25-03.07.03:035][546]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.10.25-03.07.03:960][546]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.10.25-03.07.03:960][546]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.10.25-03.07.03:960][546]LogAudio: Display: Audio Device unregistered from world 'Demonstration'.
+[2021.10.25-03.07.03:960][546]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-03.07.03:965][546]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-03.07.04:063][546]LogAudio: Display: Audio Device Manager Shutdown
+[2021.10.25-03.07.04:064][546]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.25-03.07.04:127][546]LogExit: Preparing to exit.
+[2021.10.25-03.07.05:435][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.10.25-03.07.06:074][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AE7600] Windows
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AE7400] Default__DeviceProfile
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AA8B00] WindowsNoEditor
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AE4B00] WindowsServer
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AAB200] WindowsClient
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AE7100] IOS
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AA9200] iPadAir
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AE5200] iPadAir2
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5CE00] IPadPro
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5CF00] iPadAir3
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AE6E00] iPadAir4
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5FC00] iPadMini2
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AE5300] iPadMini3
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5E200] iPadMini4
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AE4F00] iPadMini5
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AAA700] iPhone6
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AAA500] iPodTouch6
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5F300] iPhone7
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5F200] iPodTouch7
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AABB00] iPhone5S
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5C900] iPhone6Plus
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AA8900] iPhone6S
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5E300] iPhone6SPlus
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AAA800] iPhone7Plus
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5F500] iPhoneSE
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AAB000] iPhone8
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5F000] iPhone8Plus
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AAB800] iPhoneX
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5CD00] iPhoneXS
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AAA400] iPhoneXSMax
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5F400] iPhoneXR
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AAA200] iPhone11
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5E700] iPhone11Pro
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AA9100] iPhone11ProMax
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5D700] iPhoneSE2
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AA8400] iPhone12Mini
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5D900] iPhone12
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AA8600] iPhone12Pro
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5DA00] iPhone12ProMax
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AA8800] iPadPro105
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5CC00] iPadPro129
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AA8700] iPadPro97
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5DF00] iPadPro2_129
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AAA600] iPad5
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5F600] iPad6
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AA8E00] iPad7
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5FE00] iPad8
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AA9B00] iPadPro11
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5E000] iPadPro2_11
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AA9800] iPadPro3_129
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5D300] iPadPro4_129
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AAA000] AppleTV
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5C400] AppleTV4K
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AA9D00] TVOS
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5EA00] Mac
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AA9600] MacClient
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5E100] MacNoEditor
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AA8500] MacServer
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39B38600] Linux
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AE6C00] LinuxAArch64
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39B39500] LinuxNoEditor
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AE7900] LinuxAArch64NoEditor
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39B38400] LinuxClient
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AE5B00] LinuxAArch64Client
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39B39600] LinuxServer
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AE6B00] LinuxAArch64Server
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39B39900] Android
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AE5E00] Android_Low
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39B38D00] Android_Mid
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AE7200] Android_High
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39B38100] Android_Default
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AE6A00] Android_Adreno4xx
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39B38F00] Android_Adreno5xx_Low
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AE5C00] Android_Adreno5xx
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AABE00] Android_Adreno6xx
+[2021.10.25-03.07.06:075][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5D100] Android_Adreno6xx_Vulkan
+[2021.10.25-03.07.06:076][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AAA300] Android_Mali_T6xx
+[2021.10.25-03.07.06:076][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5DE00] Android_Mali_T7xx
+[2021.10.25-03.07.06:076][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AA9000] Android_Mali_T8xx
+[2021.10.25-03.07.06:076][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5DD00] Android_Mali_G71
+[2021.10.25-03.07.06:076][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AA9C00] Android_Mali_G72
+[2021.10.25-03.07.06:076][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5E600] Android_Mali_G72_Vulkan
+[2021.10.25-03.07.06:076][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AABA00] Android_Mali_G76
+[2021.10.25-03.07.06:076][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5EC00] Android_Mali_G76_Vulkan
+[2021.10.25-03.07.06:076][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AAB900] Android_Mali_G77
+[2021.10.25-03.07.06:076][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5EB00] Android_Mali_G77_Vulkan
+[2021.10.25-03.07.06:076][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AA8300] Android_Vulkan_SM5
+[2021.10.25-03.07.06:076][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5D500] Android_PowerVR_G6xxx
+[2021.10.25-03.07.06:076][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AA8D00] Android_PowerVR_GT7xxx
+[2021.10.25-03.07.06:076][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5FD00] Android_PowerVR_GE8xxx
+[2021.10.25-03.07.06:076][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AAB400] Android_PowerVR_GM9xxx
+[2021.10.25-03.07.06:076][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5D400] Android_PowerVR_GM9xxx_Vulkan
+[2021.10.25-03.07.06:076][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AAB300] Android_TegraK1
+[2021.10.25-03.07.06:076][546]LogDeviceProfile: Device profile begin destroy: [0000023E39A5ED00] Android_Unknown_Vulkan
+[2021.10.25-03.07.06:076][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AA9700] Lumin
+[2021.10.25-03.07.06:076][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AA3F00] Lumin_Desktop
+[2021.10.25-03.07.06:076][546]LogDeviceProfile: Device profile begin destroy: [0000023E39AE4C00] HoloLens
+[2021.10.25-03.07.06:455][546]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-03.07.06:455][546]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-03.07.06:455][546]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.25-03.07.06:455][546]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.25-03.07.06:455][546]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.25-03.07.06:456][546]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.25-03.07.06:456][546]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.25-03.07.06:456][546]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.25-03.07.06:456][546]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.25-03.07.06:456][546]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-03.07.06:456][546]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-03.07.06:456][546]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.25-03.07.06:456][546]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.25-03.07.06:456][546]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.25-03.07.06:456][546]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.25-03.07.06:456][546]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.25-03.07.06:456][546]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.25-03.07.06:456][546]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.25-03.07.06:456][546]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-03.07.06:610][546]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.10.25-03.07.06:971][546]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-03.07.06:980][546]LogExit: Editor shut down
+[2021.10.25-03.07.06:982][546]LogExit: Transaction tracking system shut down
