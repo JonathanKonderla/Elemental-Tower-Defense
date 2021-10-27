@@ -10217,3 +10217,1156 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.27-05.41.16:035][904]LogPlayLevel: Display: Destroying online subsystem :Context_48
 [2021.10.27-05.41.17:414][967]LogSlate: Window 'Message Log' being destroyed
 [2021.10.27-05.41.17:431][967]LogSlate: Window 'Message Log' being destroyed
+[2021.10.27-05.41.58:415][768]LogSlate: Window 'Message Log' being destroyed
+[2021.10.27-05.41.58:425][768]LogSlate: Window 'Message Log' being destroyed
+[2021.10.27-05.42.12:420][603]BlueprintLog: New page: Compile FirstPersonProjectile
+[2021.10.27-05.42.12:500][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.10.27-05.42.13:031][630]LogSavePackage: Moving '../../../../../../Users/JonathanKonderla/Unreal Projects/Elemental-Tower-Defense/ElementalDefense/Saved/FirstPersonProjectileD92816E1470D3956A160F49FEBE0598E.tmp' to '../../../../../../Users/JonathanKonderla/Unreal Projects/Elemental-Tower-Defense/ElementalDefense/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2021.10.27-05.42.13:044][630]AssetCheck: New page: Asset Save: FirstPersonProjectile
+[2021.10.27-05.42.13:044][630]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2021.10.27-05.42.14:322][704]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.10.27-05.42.14:442][704]LogSavePackage: Moving '../../../../../../Users/JonathanKonderla/Unreal Projects/Elemental-Tower-Defense/ElementalDefense/Saved/Tutorial4F94010641F6694FA2A10FA1D4AEC979.tmp' to '../../../../../../Users/JonathanKonderla/Unreal Projects/Elemental-Tower-Defense/ElementalDefense/Content/Tutorial.umap'
+[2021.10.27-05.42.14:460][704]AssetCheck: New page: Asset Save: Tutorial
+[2021.10.27-05.42.14:460][704]LogContentValidation: Display: Validating World /Game/Tutorial.Tutorial
+[2021.10.27-05.42.15:454][763]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-05.42.15:461][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-05.42.15:461][763]PIE: New page: PIE session: Tutorial (Oct 26, 2021, 7:42:15 PM)
+[2021.10.27-05.42.15:461][763]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tutorial
+[2021.10.27-05.42.15:494][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032614s)
+[2021.10.27-05.42.15:495][763]LogAIModule: Creating AISystem for world Tutorial
+[2021.10.27-05.42.15:495][763]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2021.10.27-05.42.15:495][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tutorial.Tutorial to /Game/UEDPIE_0_Tutorial.Tutorial (0.033680s)
+[2021.10.27-05.42.15:530][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.10.27-05.42.15:532][763]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.10.27-05.42.15:532][763]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-05.42.15:532][763]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-05.42.15:532][763]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-05.42.15:532][763]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-05.42.15:532][763]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-05.42.15:532][763]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-05.42.15:532][763]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-05.42.15:532][763]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-05.42.15:532][763]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-05.42.15:532][763]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-05.42.15:536][763]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-05.42.15:536][763]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-05.42.15:575][763]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.10.27-05.42.15:575][763]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-05.42.15:575][763]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-05.42.15:575][763]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-05.42.15:575][763]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-05.42.15:575][763]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-05.42.15:575][763]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-05.42.15:590][763]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-05.42.15:590][763]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-05.42.15:590][763]LogInit: FAudioDevice initialized.
+[2021.10.27-05.42.15:590][763]LogAudio: Display: Audio Device (ID: 22) registered with world 'Tutorial'.
+[2021.10.27-05.42.15:599][763]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.27-05.42.15:610][763]LogWorld: Bringing World /Game/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2021.10.27-00.42.15
+[2021.10.27-05.42.15:611][763]LogWorld: Bringing up level for play took: 0.011299
+[2021.10.27-05.42.15:611][763]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2021.10.27-05.42.15:613][763]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.10.27-05.42.15:615][763]PIE: Server logged in
+[2021.10.27-05.42.15:617][763]PIE: Play in editor total start time 0.156 seconds.
+[2021.10.27-05.42.15:617][763]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.15:684][765]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.15:700][766]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.15:720][767]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.15:738][768]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.15:754][769]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.15:772][770]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.15:788][771]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.15:804][772]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.15:821][773]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.15:838][774]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.15:854][775]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.15:872][776]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.15:889][777]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.15:906][778]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.15:922][779]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.15:939][780]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.15:955][781]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.15:972][782]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.15:988][783]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:004][784]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:022][785]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:039][786]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:055][787]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:072][788]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:088][789]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:104][790]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:121][791]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:138][792]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:154][793]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:171][794]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:188][795]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:204][796]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:221][797]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:238][798]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:254][799]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:271][800]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:288][801]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:304][802]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:321][803]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:338][804]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:354][805]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:371][806]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:388][807]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:409][808]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:422][809]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:440][810]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:457][811]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:473][812]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:490][813]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:506][814]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:522][815]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:539][816]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:555][817]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:572][818]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:590][819]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:607][820]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:623][821]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:640][822]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:657][823]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:674][824]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:691][825]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:708][826]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:724][827]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:740][828]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:757][829]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:773][830]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:790][831]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:807][832]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:824][833]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:840][834]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:857][835]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:873][836]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:890][837]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:908][838]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:923][839]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:940][840]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:956][841]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:972][842]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.16:989][843]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:009][844]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:023][845]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:040][846]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:057][847]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:073][848]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:090][849]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:106][850]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:123][851]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:141][852]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:156][853]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:174][854]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:190][855]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:208][856]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:223][857]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:241][858]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:258][859]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:275][860]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:291][861]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:307][862]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:325][863]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:340][864]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:357][865]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:373][866]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:390][867]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:408][868]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:423][869]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:440][870]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:456][871]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:474][872]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:490][873]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:508][874]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:523][875]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:541][876]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:557][877]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:573][878]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:591][879]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:606][880]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:625][881]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:640][882]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:658][883]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:673][884]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:690][885]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:707][886]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:724][887]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:740][888]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:757][889]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:774][890]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:790][891]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:808][892]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:823][893]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:841][894]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:856][895]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:874][896]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:890][897]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:906][898]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:924][899]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:940][900]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:958][901]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:973][902]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.17:991][903]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:006][904]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:024][905]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:040][906]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:058][907]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:074][908]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:090][909]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:107][910]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:123][911]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:140][912]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:156][913]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:173][914]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:190][915]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:206][916]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:223][917]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:240][918]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:256][919]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:273][920]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:290][921]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:306][922]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:324][923]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:340][924]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:356][925]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:373][926]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:390][927]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:406][928]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:423][929]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:440][930]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:456][931]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:473][932]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:490][933]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:507][934]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:523][935]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:540][936]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:556][937]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:573][938]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:591][939]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.18:608][940]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.21:397][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-05.42.21:397][106]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Tutorial
+[2021.10.27-05.42.21:397][106]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-05.42.21:399][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-05.42.21:409][106]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-05.42.21:415][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-05.42.21:448][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-05.42.21:448][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-05.42.21:449][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-05.42.21:471][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.10.27-05.42.21:503][107]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2021.10.27-05.42.23:089][201]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-05.42.23:095][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-05.42.23:095][201]PIE: New page: PIE session: Tutorial (Oct 26, 2021, 7:42:23 PM)
+[2021.10.27-05.42.23:116][201]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tutorial
+[2021.10.27-05.42.23:145][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028362s)
+[2021.10.27-05.42.23:146][201]LogAIModule: Creating AISystem for world Tutorial
+[2021.10.27-05.42.23:146][201]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2021.10.27-05.42.23:146][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tutorial.Tutorial to /Game/UEDPIE_0_Tutorial.Tutorial (0.029506s)
+[2021.10.27-05.42.23:180][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.10.27-05.42.23:183][201]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.10.27-05.42.23:183][201]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-05.42.23:183][201]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-05.42.23:183][201]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-05.42.23:183][201]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-05.42.23:183][201]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-05.42.23:183][201]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-05.42.23:183][201]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-05.42.23:183][201]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-05.42.23:183][201]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-05.42.23:183][201]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-05.42.23:187][201]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-05.42.23:187][201]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-05.42.23:226][201]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.10.27-05.42.23:226][201]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-05.42.23:226][201]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-05.42.23:226][201]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-05.42.23:226][201]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-05.42.23:227][201]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-05.42.23:227][201]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-05.42.23:241][201]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-05.42.23:241][201]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-05.42.23:241][201]LogInit: FAudioDevice initialized.
+[2021.10.27-05.42.23:241][201]LogAudio: Display: Audio Device (ID: 23) registered with world 'Tutorial'.
+[2021.10.27-05.42.23:248][201]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.27-05.42.23:260][201]LogWorld: Bringing World /Game/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2021.10.27-00.42.23
+[2021.10.27-05.42.23:261][201]LogWorld: Bringing up level for play took: 0.011109
+[2021.10.27-05.42.23:261][201]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2021.10.27-05.42.23:262][201]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.10.27-05.42.23:265][201]PIE: Server logged in
+[2021.10.27-05.42.23:266][201]PIE: Play in editor total start time 0.171 seconds.
+[2021.10.27-05.42.23:267][201]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:334][203]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:351][204]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:368][205]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:384][206]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:401][207]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:419][208]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:434][209]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:451][210]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:468][211]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:484][212]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:501][213]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:518][214]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:534][215]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:551][216]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:568][217]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:584][218]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:601][219]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:618][220]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:635][221]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:650][222]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:668][223]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:684][224]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:701][225]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:719][226]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:734][227]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:751][228]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:768][229]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:784][230]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:801][231]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:818][232]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:833][233]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:851][234]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:871][235]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:918][236]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:933][237]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:951][238]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:968][239]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.23:983][240]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:000][241]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:018][242]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:034][243]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:050][244]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:068][245]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:084][246]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:101][247]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:118][248]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:134][249]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:152][250]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:168][251]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:184][252]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:201][253]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:218][254]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:234][255]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:250][256]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:269][257]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:283][258]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:301][259]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:317][260]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:334][261]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:350][262]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:368][263]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:383][264]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:401][265]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:417][266]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:434][267]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:450][268]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:468][269]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:483][270]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:501][271]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:517][272]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:534][273]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:551][274]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:567][275]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:585][276]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:601][277]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:617][278]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:634][279]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:651][280]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:667][281]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:683][282]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:701][283]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:717][284]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:734][285]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:750][286]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:768][287]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:784][288]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:801][289]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:816][290]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:834][291]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:850][292]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:868][293]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:884][294]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:900][295]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:917][296]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:933][297]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:950][298]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:967][299]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.24:983][300]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:000][301]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:016][302]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:033][303]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:050][304]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:066][305]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:083][306]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:100][307]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:118][308]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:133][309]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:150][310]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:167][311]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:183][312]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:200][313]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:216][314]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:233][315]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:250][316]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:267][317]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:283][318]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:300][319]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:316][320]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:333][321]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:350][322]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:366][323]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:383][324]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:400][325]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:417][326]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:433][327]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:451][328]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:467][329]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:483][330]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:501][331]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:518][332]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:534][333]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:551][334]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:568][335]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:584][336]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:601][337]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:617][338]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:634][339]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:651][340]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:667][341]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:683][342]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:700][343]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:716][344]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:733][345]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:750][346]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:766][347]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:783][348]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:800][349]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:816][350]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:833][351]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:850][352]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:866][353]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:883][354]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:900][355]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:917][356]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:933][357]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:950][358]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:966][359]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.25:983][360]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:000][361]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:016][362]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:033][363]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:051][364]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:068][365]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:083][366]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:100][367]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:116][368]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:133][369]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:150][370]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:167][371]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:183][372]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:200][373]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:217][374]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:233][375]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:250][376]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:266][377]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:283][378]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:300][379]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:316][380]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:333][381]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:350][382]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:367][383]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:383][384]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:400][385]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:416][386]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:433][387]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:450][388]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:467][389]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:484][390]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:501][391]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:517][392]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:533][393]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:550][394]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:567][395]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:583][396]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:600][397]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.26:618][398]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.28:088][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-05.42.28:088][484]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Tutorial
+[2021.10.27-05.42.28:088][484]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-05.42.28:090][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-05.42.28:100][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-05.42.28:106][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-05.42.28:138][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-05.42.28:139][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-05.42.28:140][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-05.42.28:162][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.10.27-05.42.28:192][485]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2021.10.27-05.42.29:076][537]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-05.42.29:082][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-05.42.29:082][537]PIE: New page: PIE session: Tutorial (Oct 26, 2021, 7:42:29 PM)
+[2021.10.27-05.42.29:082][537]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tutorial
+[2021.10.27-05.42.29:111][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028460s)
+[2021.10.27-05.42.29:112][537]LogAIModule: Creating AISystem for world Tutorial
+[2021.10.27-05.42.29:112][537]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2021.10.27-05.42.29:112][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tutorial.Tutorial to /Game/UEDPIE_0_Tutorial.Tutorial (0.029521s)
+[2021.10.27-05.42.29:146][537]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.10.27-05.42.29:148][537]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.10.27-05.42.29:148][537]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-05.42.29:148][537]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-05.42.29:148][537]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-05.42.29:148][537]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-05.42.29:148][537]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-05.42.29:148][537]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-05.42.29:148][537]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-05.42.29:148][537]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-05.42.29:149][537]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-05.42.29:149][537]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-05.42.29:152][537]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-05.42.29:152][537]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-05.42.29:190][537]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.10.27-05.42.29:191][537]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-05.42.29:191][537]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-05.42.29:191][537]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-05.42.29:191][537]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-05.42.29:191][537]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-05.42.29:191][537]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-05.42.29:206][537]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-05.42.29:206][537]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-05.42.29:206][537]LogInit: FAudioDevice initialized.
+[2021.10.27-05.42.29:206][537]LogAudio: Display: Audio Device (ID: 24) registered with world 'Tutorial'.
+[2021.10.27-05.42.29:213][537]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.27-05.42.29:225][537]LogWorld: Bringing World /Game/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2021.10.27-00.42.29
+[2021.10.27-05.42.29:226][537]LogWorld: Bringing up level for play took: 0.011534
+[2021.10.27-05.42.29:226][537]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2021.10.27-05.42.29:228][537]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.10.27-05.42.29:230][537]PIE: Server logged in
+[2021.10.27-05.42.29:231][537]PIE: Play in editor total start time 0.15 seconds.
+[2021.10.27-05.42.29:232][537]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:279][538]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:313][540]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:330][541]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:348][542]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:364][543]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:381][544]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:398][545]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:414][546]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:431][547]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:448][548]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:464][549]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:481][550]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:498][551]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:514][552]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:531][553]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:548][554]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:564][555]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:581][556]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:597][557]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:614][558]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:630][559]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:647][560]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:663][561]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:681][562]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:697][563]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:713][564]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:730][565]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:747][566]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:763][567]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:780][568]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:797][569]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:813][570]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:831][571]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:847][572]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:863][573]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:880][574]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:897][575]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:913][576]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:930][577]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:947][578]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:963][579]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:980][580]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.29:997][581]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:013][582]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:030][583]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:047][584]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:063][585]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:080][586]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:097][587]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:113][588]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:130][589]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:150][590]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:163][591]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:181][592]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:197][593]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:213][594]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:230][595]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:247][596]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:263][597]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:280][598]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:297][599]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:313][600]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:331][601]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:347][602]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:363][603]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:380][604]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:397][605]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:413][606]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:430][607]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:447][608]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:463][609]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:480][610]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:497][611]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:513][612]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:530][613]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:547][614]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:563][615]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:580][616]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:597][617]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:613][618]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:630][619]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:647][620]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:663][621]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:680][622]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:697][623]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:713][624]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:730][625]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:747][626]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:763][627]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:780][628]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:797][629]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:813][630]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:830][631]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:847][632]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:863][633]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:880][634]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:897][635]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:913][636]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:930][637]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:947][638]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:963][639]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:980][640]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.30:997][641]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:013][642]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:030][643]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:047][644]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:063][645]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:081][646]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:097][647]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:113][648]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:130][649]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:147][650]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:163][651]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:180][652]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:197][653]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:213][654]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:230][655]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:247][656]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:263][657]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:280][658]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:297][659]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:313][660]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:330][661]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:348][662]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:364][663]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:380][664]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:397][665]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:413][666]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:430][667]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:447][668]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:464][669]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:481][670]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:498][671]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:515][672]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:531][673]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:548][674]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:564][675]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:581][676]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:598][677]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:614][678]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:630][679]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:648][680]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:663][681]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:681][682]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:698][683]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:714][684]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:732][685]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:748][686]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:764][687]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:781][688]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:799][689]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:814][690]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:831][691]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:849][692]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:864][693]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:881][694]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:898][695]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:914][696]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:931][697]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:948][698]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:964][699]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:981][700]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.31:997][701]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:014][702]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:030][703]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:047][704]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:064][705]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:081][706]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:098][707]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:114][708]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:132][709]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:148][710]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:164][711]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:181][712]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:197][713]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:215][714]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:230][715]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:248][716]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:264][717]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:281][718]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:299][719]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:314][720]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:331][721]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:348][722]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:364][723]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:380][724]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:397][725]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:414][726]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:431][727]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:448][728]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:464][729]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:481][730]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:498][731]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:514][732]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:530][733]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:547][734]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:564][735]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:581][736]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:598][737]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:614][738]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:631][739]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:647][740]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:663][741]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:681][742]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:698][743]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:714][744]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:732][745]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:748][746]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:764][747]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:780][748]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:797][749]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:813][750]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:830][751]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:848][752]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:864][753]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:881][754]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:897][755]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:914][756]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:930][757]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:947][758]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:963][759]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:980][760]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.32:997][761]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:014][762]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:030][763]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:047][764]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:064][765]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:081][766]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:098][767]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:114][768]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:131][769]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:147][770]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:163][771]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:180][772]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:213][774]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:231][775]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:247][776]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:263][777]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:280][778]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:297][779]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:313][780]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:330][781]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:347][782]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:363][783]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:380][784]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:397][785]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:413][786]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:430][787]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:447][788]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:463][789]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:480][790]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:497][791]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:513][792]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:530][793]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:547][794]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:564][795]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:580][796]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:598][797]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:614][798]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:631][799]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:647][800]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:664][801]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:680][802]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:697][803]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:716][804]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:731][805]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:748][806]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:764][807]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:780][808]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:797][809]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:814][810]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:831][811]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:848][812]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:864][813]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:882][814]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:900][815]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:915][816]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:933][817]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:949][818]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:965][819]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:981][820]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.33:997][821]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:014][822]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:030][823]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:047][824]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:063][825]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:080][826]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:098][827]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:113][828]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:130][829]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:147][830]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:163][831]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:180][832]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:197][833]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:213][834]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:230][835]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:247][836]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:263][837]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:280][838]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:297][839]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:313][840]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:330][841]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:347][842]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:365][843]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:381][844]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:397][845]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:413][846]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:431][847]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:447][848]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:463][849]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:480][850]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:497][851]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:514][852]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:530][853]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:548][854]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:565][855]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:581][856]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:598][857]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:615][858]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:632][859]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:648][860]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:667][861]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:682][862]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:699][863]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:715][864]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:731][865]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:747][866]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:780][868]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:797][869]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:813][870]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:830][871]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:848][872]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:864][873]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:880][874]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:897][875]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:913][876]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:931][877]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:948][878]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:964][879]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:980][880]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.34:998][881]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:013][882]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:030][883]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:050][884]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:064][885]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:081][886]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:097][887]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:113][888]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:130][889]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:147][890]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:163][891]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:180][892]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:197][893]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:213][894]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:230][895]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:247][896]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:264][897]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:280][898]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:297][899]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:314][900]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:330][901]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:348][902]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:364][903]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:381][904]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:398][905]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:414][906]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:431][907]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:448][908]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:465][909]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:481][910]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:499][911]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:515][912]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:531][913]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:550][914]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:565][915]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:581][916]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:598][917]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:615][918]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:631][919]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:648][920]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:664][921]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:681][922]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:698][923]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:714][924]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:731][925]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:748][926]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:764][927]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:781][928]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:800][929]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:815][930]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:831][931]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:849][932]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:865][933]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:882][934]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:899][935]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:932][937]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:949][938]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:965][939]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:982][940]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.35:999][941]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:015][942]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:032][943]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:049][944]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:065][945]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:082][946]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:098][947]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:115][948]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:132][949]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:149][950]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:165][951]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:181][952]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:199][953]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:215][954]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:231][955]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:249][956]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:265][957]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:282][958]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:300][959]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:315][960]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:331][961]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:348][962]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:365][963]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:381][964]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:398][965]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:414][966]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:431][967]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:448][968]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:465][969]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:481][970]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:499][971]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:515][972]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:531][973]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:549][974]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:565][975]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:581][976]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:598][977]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:614][978]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:631][979]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:648][980]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:664][981]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:681][982]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:698][983]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:716][984]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:731][985]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:748][986]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:764][987]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:780][988]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:797][989]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:814][990]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:830][991]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:848][992]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:864][993]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:881][994]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:898][995]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:914][996]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:931][997]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:948][998]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:965][999]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:981][  0]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.36:998][  1]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:014][  2]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:031][  3]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:048][  4]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:064][  5]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:081][  6]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:098][  7]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:114][  8]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:131][  9]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:147][ 10]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:164][ 11]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:181][ 12]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:199][ 13]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:214][ 14]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:231][ 15]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:248][ 16]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:264][ 17]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:280][ 18]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:298][ 19]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:314][ 20]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:331][ 21]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:348][ 22]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:365][ 23]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:381][ 24]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:398][ 25]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:414][ 26]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:431][ 27]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:447][ 28]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:464][ 29]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:481][ 30]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:498][ 31]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:514][ 32]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:531][ 33]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:549][ 34]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:565][ 35]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:581][ 36]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:598][ 37]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:614][ 38]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:631][ 39]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:649][ 40]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:665][ 41]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:683][ 42]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:698][ 43]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:715][ 44]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:731][ 45]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:748][ 46]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:764][ 47]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:782][ 48]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:799][ 49]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:815][ 50]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:831][ 51]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:848][ 52]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:864][ 53]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:881][ 54]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:898][ 55]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:914][ 56]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:930][ 57]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:948][ 58]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:964][ 59]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.37:982][ 60]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:000][ 61]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:016][ 62]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:032][ 63]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:050][ 64]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:066][ 65]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:082][ 66]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:099][ 67]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:115][ 68]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:132][ 69]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:151][ 70]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:165][ 71]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:182][ 72]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:199][ 73]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:216][ 74]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:232][ 75]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:249][ 76]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:265][ 77]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:282][ 78]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:299][ 79]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:315][ 80]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:332][ 81]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:349][ 82]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:365][ 83]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:382][ 84]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:399][ 85]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:415][ 86]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:432][ 87]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:449][ 88]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:466][ 89]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:482][ 90]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:499][ 91]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:515][ 92]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:532][ 93]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:549][ 94]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:565][ 95]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:582][ 96]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:599][ 97]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:615][ 98]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:632][ 99]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:649][100]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:665][101]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:682][102]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:699][103]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:715][104]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:733][105]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:750][106]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:766][107]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:782][108]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:799][109]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:815][110]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:832][111]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:849][112]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:865][113]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:882][114]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:899][115]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:915][116]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:932][117]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:949][118]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:965][119]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:982][120]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.38:999][121]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:015][122]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:032][123]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:050][124]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:066][125]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:082][126]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:099][127]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:115][128]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:132][129]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:149][130]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:165][131]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:182][132]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:199][133]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:215][134]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:232][135]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:249][136]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:265][137]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:282][138]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:299][139]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:316][140]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:333][141]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:350][142]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:366][143]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:383][144]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:399][145]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:415][146]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:432][147]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:449][148]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:466][149]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:483][150]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:500][151]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:515][152]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:533][153]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:549][154]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.39:565][155]LogBlueprintUserMessages: [BP_EnemyCharacter2_6] Hello
+[2021.10.27-05.42.40:368][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-05.42.40:368][201]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Tutorial
+[2021.10.27-05.42.40:369][201]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-05.42.40:371][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-05.42.40:378][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-05.42.40:384][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-05.42.40:416][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-05.42.40:417][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-05.42.40:418][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-05.42.40:441][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.10.27-05.42.40:473][202]LogPlayLevel: Display: Destroying online subsystem :Context_51
