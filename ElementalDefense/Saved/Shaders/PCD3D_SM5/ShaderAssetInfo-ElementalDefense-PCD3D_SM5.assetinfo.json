@@ -2,12 +2,6 @@
 	"AssetInfoVersion": 1,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "8DE83ECFC60FCB1D15B5BAFC5DA10DE49F28086E",
-			"Assets": [
-				"../../../Engine/Content/EditorMaterials/AssetViewer/M_SkyBox.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "F9AC30FABEAC784E70831BBD20944736F796FA37",
 			"Assets": [
 				"../../../Engine/Content/EditorMaterials/PersonaFloorMat.uasset"
@@ -23,6 +17,12 @@
 			"ShaderMapHash": "95A9C889EB13EA19CEECC7FDC65A0CA823E5266C",
 			"Assets": [
 				"../../../Engine/Content/EditorMaterials/LevelGridMaterial2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F63EFA03CBF4B161119A9D3B87309749DFA1F9E2",
+			"Assets": [
+				"../../../../../../Users/jonathanak/Documents/GitHub/Elemental-Tower-Defense/ElementalDefense/Content/Materials/DepthFade.uasset"
 			]
 		},
 		{
@@ -54,6 +54,20 @@
 			"Assets": [
 				"../../../../../../Users/jonathanak/Documents/GitHub/Elemental-Tower-Defense/ElementalDefense/Content/MedievalDungeon/Materials/M_Torch_Flicker_Light_Function.uasset",
 				"../../../../../../Users/jonathanak/Documents/GitHub/Elemental-Tower-Defense/ElementalDefense/Content/MedievalDungeon/Materials/M_Flicker_Light_Function.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5D0D493AA5B983C5068CD21D999C23A1C623C69B",
+			"Assets": [
+				"../../../../../../Users/jonathanak/Documents/GitHub/Elemental-Tower-Defense/ElementalDefense/Content/MedievalDungeon/Materials/M_StoneWall_Inst.uasset",
+				"../../../../../../Users/jonathanak/Documents/GitHub/Elemental-Tower-Defense/ElementalDefense/Content/MedievalDungeon/Materials/M_BrickFloor_Clean_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "375C679CAD415EEA128BCE6428C1DC24FD8AF30B",
+			"Assets": [
+				"../../../../../../Users/jonathanak/Documents/GitHub/Elemental-Tower-Defense/ElementalDefense/Content/MedievalDungeon/Materials/M_StoneWall_Inst.uasset",
+				"../../../../../../Users/jonathanak/Documents/GitHub/Elemental-Tower-Defense/ElementalDefense/Content/MedievalDungeon/Materials/M_BrickFloor_Clean_Inst.uasset"
 			]
 		},
 		{
@@ -112,20 +126,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5D0D493AA5B983C5068CD21D999C23A1C623C69B",
-			"Assets": [
-				"../../../../../../Users/jonathanak/Documents/GitHub/Elemental-Tower-Defense/ElementalDefense/Content/MedievalDungeon/Materials/M_StoneWall_Inst.uasset",
-				"../../../../../../Users/jonathanak/Documents/GitHub/Elemental-Tower-Defense/ElementalDefense/Content/MedievalDungeon/Materials/M_BrickFloor_Clean_Inst.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "375C679CAD415EEA128BCE6428C1DC24FD8AF30B",
-			"Assets": [
-				"../../../../../../Users/jonathanak/Documents/GitHub/Elemental-Tower-Defense/ElementalDefense/Content/MedievalDungeon/Materials/M_StoneWall_Inst.uasset",
-				"../../../../../../Users/jonathanak/Documents/GitHub/Elemental-Tower-Defense/ElementalDefense/Content/MedievalDungeon/Materials/M_BrickFloor_Clean_Inst.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "5955D31DA1D64305C4B656F257539CF680F15414",
 			"Assets": [
 				"../../../../../../Users/jonathanak/Documents/GitHub/Elemental-Tower-Defense/ElementalDefense/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset"
@@ -135,6 +135,12 @@
 			"ShaderMapHash": "7DC9AD995DCE9E9E177A42D050307C57A502C753",
 			"Assets": [
 				"../../../../../../Users/jonathanak/Documents/GitHub/Elemental-Tower-Defense/ElementalDefense/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "32C2BC118092D58AE21800B51B6AB1FDE7D26089",
+			"Assets": [
+				"../../../../../../Users/jonathanak/Documents/GitHub/Elemental-Tower-Defense/ElementalDefense/Content/Materials/EnemyProjectileRed.uasset"
 			]
 		},
 		{
@@ -792,27 +798,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "BEA485E86FB51B31C7CB2391BF15D5B0CEB2D5C2",
-			"Assets": [
-				"../../../../../../Users/jonathanak/Documents/GitHub/Elemental-Tower-Defense/ElementalDefense/Content/Cave/Materials/M_Pillar01_Master.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "1EC0A730EA73D3AF21AB7AEED6CF499E04F9E1E1",
 			"Assets": [
 				"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "F63EFA03CBF4B161119A9D3B87309749DFA1F9E2",
-			"Assets": [
-				"../../../../../../Users/jonathanak/Documents/GitHub/Elemental-Tower-Defense/ElementalDefense/Content/Materials/DepthFade.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "32C2BC118092D58AE21800B51B6AB1FDE7D26089",
-			"Assets": [
-				"../../../../../../Users/jonathanak/Documents/GitHub/Elemental-Tower-Defense/ElementalDefense/Content/Materials/EnemyProjectileRed.uasset"
 			]
 		}
 	]
